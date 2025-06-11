@@ -1,0 +1,411 @@
+{
+    "1": {
+        "name": "JAKARTA PUSAT",
+        "lokasi": [
+            {
+                "value": "142",
+                "label": "Jakmart Cikini"
+            },
+            {
+                "value": "143",
+                "label": "Jakmart Kenari"
+            },
+            {
+                "value": "144",
+                "label": "Jakmart Inpari DKPKP"
+            },
+            {
+                "value": "145",
+                "label": "Jakmart Walikota Jakarta Pusat"
+            },
+            {
+                "value": "146",
+                "label": "Mini DC Cempaka Putih"
+            },
+            {
+                "value": "147",
+                "label": "Mini DC Johar Baru"
+            },
+            {
+                "value": "148",
+                "label": "Mini DC Kec.Sawah Besar"
+            },
+            {
+                "value": "149",
+                "label": "Mini DC Pasar Gembrong"
+            },
+            {
+                "value": "150",
+                "label": "Mini DC Pasar Nangka Bungur"
+            },
+            {
+                "value": "151",
+                "label": "Mini DC Pasar Senen Blok III"
+            },
+            {
+                "value": "155",
+                "label": "Pasar Petojo Ilir"
+            },
+            {
+                "value": "157",
+                "label": "Pasar Poncol"
+            },
+            {
+                "value": "158",
+                "label": "Pasar Pal Merah"
+            },
+            {
+                "value": "159",
+                "label": "Gerai Pasar Tanah Abang Blok G"
+            },
+            {
+                "value": "203",
+                "label": "Pasar Jatirawasari"
+            }
+        ]
+    },
+    "2": {
+        "name": "JAKARTA TIMUR",
+        "lokasi": [
+            {
+                "value": "7",
+                "label": "Jakmart KGN"
+            },
+            {
+                "value": "8",
+                "label": "Jakmart Tani"
+            },
+            {
+                "value": "9",
+                "label": "Jakmart Yapenprov"
+            },
+            {
+                "value": "12",
+                "label": "Jakmart Sri Gunting (Walikota Jakarta Timur)"
+            },
+            {
+                "value": "13",
+                "label": "Mini DC Kelurahan Cipinang Cempedak"
+            },
+            {
+                "value": "14",
+                "label": "Mini DC Kelurahan Cipinang Besar Utara"
+            },
+            {
+                "value": "15",
+                "label": "Mini DC Kelurahan Pondok Kelapa"
+            },
+            {
+                "value": "16",
+                "label": "Mini DC Kelurahan Cipinang Melayu"
+            },
+            {
+                "value": "17",
+                "label": "Mini DC Pasar Pondok Bambu"
+            },
+            {
+                "value": "18",
+                "label": "Mini DC Kecamatan Pasar Rebo"
+            },
+            {
+                "value": "19",
+                "label": "Mini DC Kelurahan Cijantung"
+            },
+            {
+                "value": "21",
+                "label": "Mini DC Kelurahan Pondok Ranggon"
+            },
+            {
+                "value": "22",
+                "label": "Jakmart Pasar Duren Sawit"
+            },
+            {
+                "value": "23",
+                "label": "Mini DC Pasar Cawang Kavling"
+            },
+            {
+                "value": "24",
+                "label": "Mini DC UPB Perumnas Klender"
+            },
+            {
+                "value": "25",
+                "label": "Mini DC Kelurahan Penggilingan"
+            },
+            {
+                "value": "26",
+                "label": "Mini DC UPB Kramat Jati"
+            },
+            {
+                "value": "27",
+                "label": "Jakmart Kelurahan Kramat Jati"
+            },
+            {
+                "value": "28",
+                "label": "Mini DC Kel. Rambutan"
+            },
+            {
+                "value": "29",
+                "label": "Mini DC Pasar Cijantung"
+            },
+            {
+                "value": "30",
+                "label": "Mini DC Kelurahan Cipinang Besar Selatan"
+            },
+            {
+                "value": "31",
+                "label": "Mini DC Kelurahan Rawa Bunga"
+            },
+            {
+                "value": "32",
+                "label": "Mini DC Pasar Ciracas"
+            },
+            {
+                "value": "36",
+                "label": "Mini DC Kelurahan Pekayon"
+            },
+            {
+                "value": "39",
+                "label": "Pasar Kayu Jati"
+            },
+            {
+                "value": "45",
+                "label": "Mini DC Kecamatan Pulo Gadung"
+            },
+            {
+                "value": "47",
+                "label": "Jakmart Pertokoan Waru"
+            },
+            {
+                "value": "73",
+                "label": "Jakgrosir Induk Kramat Jati"
+            },
+            {
+                "value": "204",
+                "label": "Mini DC Kel. Cakung Timur"
+            },
+            {
+                "value": "205",
+                "label": "Mini DC Kec. Ciracas"
+            },
+            {
+                "value": "206",
+                "label": "Mini DC Kel. Ceger"
+            }
+        ]
+    },
+    "3": {
+        "name": "JAKARTA UTARA",
+        "lokasi": [
+            {
+                "value": "74",
+                "label": "Jakgrosir Pasar Walang Baru"
+            },
+            {
+                "value": "119",
+                "label": "Jakmart Rusun Nagrak"
+            },
+            {
+                "value": "121",
+                "label": "Jakmart siDuck Rorotan"
+            },
+            {
+                "value": "123",
+                "label": "Jakmart Rusun Marhamas"
+            },
+            {
+                "value": "126",
+                "label": "Gerai Pasar Sunter Podomoro"
+            },
+            {
+                "value": "127",
+                "label": "Mini DC Pasar Koja"
+            },
+            {
+                "value": "129",
+                "label": "Jakmart Gerai Fish Angke"
+            },
+            {
+                "value": "131",
+                "label": "Jakmart Gerai Kamal TPI"
+            },
+            {
+                "value": "134",
+                "label": "Gerai Pasar Kebon Bawang"
+            },
+            {
+                "value": "137",
+                "label": "Gerai Pasar Pademangan Timur"
+            },
+            {
+                "value": "138",
+                "label": "Mini DC Kel. Marunda"
+            },
+            {
+                "value": "139",
+                "label": "Mini DC Pasar Rawabadak"
+            },
+            {
+                "value": "140",
+                "label": "Mini DC Pasar Kelapa Gading"
+            },
+            {
+                "value": "141",
+                "label": "Mini DC Pasar Pluit"
+            },
+            {
+                "value": "202",
+                "label": "Jakmart Pasar Cilincing"
+            }
+        ]
+    },
+    "4": {
+        "name": "JAKARTA SELATAN",
+        "lokasi": [
+            {
+                "value": "81",
+                "label": "Jakmart Rusun Pasar Rumput"
+            },
+            {
+                "value": "82",
+                "label": "Jakmart Kompak (Walikota Jakarta Selatan)"
+            },
+            {
+                "value": "83",
+                "label": "Mini DC Kec. Setia Budi"
+            },
+            {
+                "value": "84",
+                "label": "Mini DC Kel. Cipedak"
+            },
+            {
+                "value": "85",
+                "label": "Mini DC Kec. Kebayoran Lama"
+            },
+            {
+                "value": "86",
+                "label": "Mini DC Kel. Pondok Pinang"
+            },
+            {
+                "value": "87",
+                "label": "Mini DC Pasar Mayestik"
+            },
+            {
+                "value": "88",
+                "label": "Mini DC Kel. Srengseng Sawah"
+            },
+            {
+                "value": "89",
+                "label": "Mini DC Kel. Pejaten Barat"
+            },
+            {
+                "value": "90",
+                "label": "Mini DC Kel. Lebak Bulus"
+            },
+            {
+                "value": "91",
+                "label": "Mini DC Kec. Jagakarsa"
+            },
+            {
+                "value": "92",
+                "label": "Mini DC Kel. Pejaten Timur"
+            },
+            {
+                "value": "93",
+                "label": "Gerai Masjid Nurul Hidayah"
+            },
+            {
+                "value": "94",
+                "label": "Mini DC Pasar Tebet Timur"
+            },
+            {
+                "value": "95",
+                "label": "Mini DC Pasar Lenteng Agung"
+            },
+            {
+                "value": "96",
+                "label": "Mini DC Pasar Bukit Duri"
+            },
+            {
+                "value": "97",
+                "label": "Mini DC Pasar Kebayoran Lama"
+            },
+            {
+                "value": "99",
+                "label": "Mini DC Pasar Manggis"
+            },
+            {
+                "value": "100",
+                "label": "Mini DC Kecamatan Mampang Prapatan"
+            },
+            {
+                "value": "101",
+                "label": "Mini DC Kel. Jagakarsa"
+            },
+            {
+                "value": "102",
+                "label": "Mini DC Kec. Pasar Minggu"
+            },
+            {
+                "value": "109",
+                "label": "Mini DC Kec. Pancoran"
+            },
+            {
+                "value": "113",
+                "label": "Mini DC Kecamatan Cilandak"
+            }
+        ]
+    },
+    "5": {
+        "name": "JAKARTA BARAT",
+        "lokasi": [
+            {
+                "value": "51",
+                "label": "Jakmart Asam Reges"
+            },
+            {
+                "value": "52",
+                "label": "Jakmart Glodok"
+            },
+            {
+                "value": "55",
+                "label": "Jakmart Semanan"
+            },
+            {
+                "value": "56",
+                "label": "Mini DC Grogol"
+            },
+            {
+                "value": "57",
+                "label": "Mini DC Slipi Jaya"
+            },
+            {
+                "value": "67",
+                "label": "Jakmart Cupang Slipi"
+            },
+            {
+                "value": "68",
+                "label": "Pasar Pos Pengumben"
+            },
+            {
+                "value": "69",
+                "label": "Jakmart Rawalele"
+            },
+            {
+                "value": "70",
+                "label": "Jakmart Bambu Larangan"
+            },
+            {
+                "value": "71",
+                "label": "Gerai Rusun Pesakih"
+            },
+            {
+                "value": "75",
+                "label": "Jakgrosir Kedoya"
+            },
+            {
+                "value": "193",
+                "label": "Mini DC Kec. Cengkareng"
+            }
+        ]
+    }
+}
